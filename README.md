@@ -10,7 +10,7 @@
 <code><img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/322f4eaf-007a-4f5c-1914-87e23cde9e00/preview" width="70px"></code>
 <code><img src="https://w7.pngwing.com/pngs/917/965/png-transparent-microsoft-excel-microsoft-office-2013-icon-excel-angle-text-logo.png" width="70px"></code>
 <code><img src="https://www.clipartmax.com/png/middle/16-168402_microsoft-powerpoint-logo-black-and-white.png" width="95px"></code>
-### Contact me by telegram: <a href="https://t.me/"><img src="https://w7.pngwing.com/pngs/772/115/png-transparent-computer-icons-telegram-logo-angle-white-triangle-thumbnail.png" width="30px"></a>
+### Contact me by telegram: 👉 <a href="https://t.me/mashxurbek_dev"><img src="https://w7.pngwing.com/pngs/772/115/png-transparent-computer-icons-telegram-logo-angle-white-triangle-thumbnail.png" width="30px"></a> 👈
 
 <!---
 mashhurbekCosmosdev/mashhurbekCosmosdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
